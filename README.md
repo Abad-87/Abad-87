@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SYED ABAD MUSTAFA</h1>
 <h3 align="center">B.Tech CSE (DSAI) Student | Learning Python, SQL, ML & Data Science | Exploring AI, Data Visualization & beginner projects</h3>
 
-- 🔭 I’m currently working on **Power BI Dashboards**
+- 🔭 I’m currently working on **Power BI dashboards and building my data science skills to stay at the top of my field.**
 
 - 🌱 I’m currently learning **AI, ML, and futuristic data visualizations. Learning to turn complex data into smart, interactive insights. Exploring generative AI, real-time analytics, and dashboards. Upskilling in Python, AI, and next-gen data solutions.**
 
