@@ -62,7 +62,7 @@
   </a>
   
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Power_BI_Logo.png" alt="powerbi" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
