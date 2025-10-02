@@ -77,5 +77,35 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=A%20hopeless%20man%20is%20a%20very%20desperate%20and%20dangerous%20man%2C%20almost%20a%20dead%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-    
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="abadmustafa280@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="abadmustafa280@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/sparky_k4.exe" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="sparky_k4.exe" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Abad-87" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Abad-87" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/abadmustafa/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/Abad-87" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
