@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm SYED ABAD MUSTAFA</h1>
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 <h3 align="center">B.Tech CSE (DSAI) Student | Learning Python, SQL, ML & Data Science | Exploring AI, Data Visualization & beginner projects</h3>
 
 - 🔭 I’m currently working on **Power BI dashboards and building my data science skills to stay at the top of my field.**
