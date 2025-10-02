@@ -19,6 +19,11 @@
 - ⚡ Fun fact **I get excited by data patterns most people ignore.**
 
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abad-87&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Abad-87" style="padding-right:20px;" />
+</p>
+
+---
 
 <h3 align="center">Dev Arsenal</h3> 
 <p align="left">
