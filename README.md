@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bannerpixel.png" alt="Abad-87 Banner Image" />
+  <img src="Banner.png" alt="Abad-87 Banner Image" />
 </p>
 
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm SYED ABAD MUSTAFA</h1>
