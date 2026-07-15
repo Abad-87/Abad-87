@@ -47,7 +47,7 @@
 <!-- =================== GITHUB ANALYTICS =================== -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=GitHub+Analytics;Building+Projects;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=A020F0&center=true&vCenter=true&width=650&lines=GitHub+Analytics+Stats;Contribution+Graph;Always+Learning+%F0%9F%9A%80" />
 </h2>
 
 <br>
@@ -82,22 +82,6 @@
 <!-- Activity Graph -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&theme=github-dark&hide_border=true&area=true"/>
-</p>
-
-<br>
-
-<!-- Trophies -->
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=algolia&no-frame=true&column=6&margin-w=15"/>
-</p>
-
-<br>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abad-87&style=for-the-badge&color=blue"/>
-
-  <img src="https://img.shields.io/github/followers/Abad-87?style=for-the-badge&logo=github"/>
 </p>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
