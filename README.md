@@ -91,7 +91,7 @@
        alt="Most Commit Language" height="160"/>
 </p>
 
-<!-- ──── ROW 4: Contribution Activity Graph (Insightful) ──── -->
+<!-- ──── ROW 4: Contribution Activity Graph (Single instance) ──── -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&border_radius=24&custom_title=%F0%9F%93%85%20Contribution%20Timeline%20%7C%20Last%2031%20Days&title_color=D4AF37&days=45&grid=true&grid_color=ffffff10&height=350" 
        alt="Activity Graph" width="96%"/>
@@ -103,19 +103,7 @@
        alt="GitHub Trophies" width="96%"/>
 </p>
 
-<!-- ──── ROW 6: Recent Activity Feed ──── -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"/> 
-  Recent Public Activity 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"/>
-</h3>
-
-<p align="center">
-  <a href="https://github.com/Abad-87">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=00e676&point=FFFFFF&area=true&area_color=00e676&hide_border=true&radius=16&custom_title=%F0%9F%94%94%20Real-Time%20Activity%20Pulse&title_color=00e676&height=250" 
-         alt="Activity Pulse" width="96%"/>
-  </a>
-</p>
+<!-- ──── ROW 6: Activity Feed removed - No duplicate stats ──── -->
 
 <!-- ──── ROW 7: Stats Summary with GitHub Skyline CTA ──── -->
 <p align="center">
