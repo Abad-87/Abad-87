@@ -47,41 +47,21 @@
 <!-- =================== GITHUB ANALYTICS =================== -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=A020F0&center=true&vCenter=true&width=650&lines=GitHub+Analytics+Stats;Contribution+Graph;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=A020F0&center=true&vCenter=true&width=650&lines=GitHub+Analytics;Contribution+Activity;Always+Learning+🚀" />
 </h2>
 
 <br>
 
-<!-- Stats + Streak -->
+<!-- Streak -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abad-87&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-
-  <img height="180" src="https://streak-stats.demolab.com?user=Abad-87&theme=github-dark&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Abad-87&theme=github-dark&hide_border=true"/>
 </p>
 
 <br>
 
-<!-- Languages -->
+<!-- Contribution Graph -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-</p>
-
-<br>
-
-<!-- Summary Cards -->
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abad-87&theme=github_dark"/>
-
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abad-87&theme=github_dark"/>
-
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abad-87&theme=github_dark&utcOffset=5.5"/>
-</p>
-
-<br>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&theme=github-dark&hide_border=true&area=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&theme=github-dark&hide_border=true&radius=12"/>
 </p>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
