@@ -32,10 +32,10 @@
 ## 💻 Tech Stack
 
 ### 🚀 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 
 ### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%23412991.svg?style=for-the-badge&logo=python&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%23412991.svg?style=for-the-badge&logo=python&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 ### ⚙️ DevOps & Deployment Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -47,16 +47,22 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&show_icons=true&theme=transparent&hide_border=false&border_color=D4AF37&border_radius=15&bg_color=30,000000,1a1a2e&title_color=D4AF37&icon_color=E5C687&text_color=F5F0E6&count_private=true" alt="Abad-87's GitHub stats" height="185"/>
-  <img src="https://streak-stats.demolab.com/?user=Abad-87&hide_border=false&border=D4AF37&border_radius=15&background=30,000000,1a1a2e&ring=D4AF37&fire=E5C687&currStreakLabel=D4AF37&sideLabels=F5F0E6&currStreakNum=F5F0E6&sideNums=F5F0E6&dates=9a8c72" alt="Abad-87's streak stats" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&show_icons=true&theme=transparent&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&ring_color=D4AF37&count_private=true&custom_title=✦%20Stats%20Overview" alt="Stats" height="190"/>
+  <img src="https://streak-stats.demolab.com/?user=Abad-87&hide_border=true&border_radius=20&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=D4AF37" alt="Streak" height="190"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&theme=transparent&hide_border=false&border_color=D4AF37&border_radius=15&bg_color=30,000000,1a1a2e&title_color=D4AF37&text_color=F5F0E6&langs_count=8" alt="Top Languages" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&theme=transparent&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8&card_width=450" alt="Top Languages" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abad-87&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=5" alt="Wakatime" height="190"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&theme=minimal&hide_border=true&bg_color=30,000000,1a1a2e&color=D4AF37&line=D4AF37&point=F5F0E6&area=true&area_color=E5C687" alt="Abad-87's Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=D4AF37&point=D4AF37&area=true&area_color=D4AF37&hide_border=true&border_radius=20&custom_title=Contribution%20Timeline&title_color=D4AF37" alt="Activity Graph" width="92%"/>
+</p>
+
+<!-- Trophy Showcase -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&title_color=D4AF37" alt="Trophies" width="92%"/>
 </p>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
