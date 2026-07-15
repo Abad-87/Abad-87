@@ -10,15 +10,18 @@
 
 - 🔭 I’m currently working on **Power BI dashboards and building my data science skills to stay at the top of my field.**
 
-- 🌱 I’m currently learning **AI, ML, and futuristic data visualizations. Learning to turn complex data into smart, interactive insights. Exploring generative AI, real-time analytics, and dashboards. Upskilling in Python, AI, and next-gen data solutions.**
+- 🌱 Learning:
+               • Python
+               • SQL
+               • Machine Learning
+               • Power BI
+               • Data Visualization
 
 - 👯 I’m looking to collaborate on **Cutting-edge data analytics, AI/ML projects, interactive dashboards, and innovative data-driven solutions that solve real-world problems.**
 
 - 🤝 I’m looking for help with **AI & data visualization projects.**
 
 - 💬 Ask me about **Python, Power BI & analytics.**
-
-- 📫 How to reach me **abadmustafa280@gmail.com**
 
 - ⚡ Fun fact **I get excited by data patterns most people ignore.**
 
@@ -60,6 +63,11 @@
 </p>
 
 <br>
+<div align="center">
+  
+  ![snake gif](https://github.com/ArshilTech/ArshilTech/blob/output/github-snake.svg)
+  
+</div>
 
 <!-- Contribution Graph -->
 <p align="center">
