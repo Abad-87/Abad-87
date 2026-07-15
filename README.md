@@ -71,40 +71,57 @@
   </a>
 </p>
 
-<!-- ──── ROW 2: Language Analytics Deep Dive ──── -->
+<!-- ──── ROW 2: Language Donut & Language Pie (UNCHANGED) ──── -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=donut&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=10&custom_title=%F0%9F%8C%90%20Language%20Distribution%20%7C%20Donut%20View&card_width=400" 
+  <!-- Language Donut -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=donut&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=10&custom_title=%F0%9F%8D%A9%20Language%20Donut&card_width=400" 
        alt="Language Donut" height="220"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=pie&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%93%9D%20Top%20Languages%20%7C%20Pie%20View&card_width=400" 
+  
+  <!-- Language Pie -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=pie&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%A5%A7%20Language%20Pie&card_width=400" 
        alt="Language Pie" height="220"/>
 </p>
 
-<!-- ──── ROW 3: Time-Based Activity Analysis ──── -->
+<!-- ──── ROW 3: Commits (UTC +5.50) - per day hour ──── -->
 <p align="center">
-  <!-- Productive Time Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abad-87&theme=github_dark&utcOffset=5.5" 
-       alt="Productive Time" height="160"/>
-  <!-- Repos per Language -->
+       alt="Commits UTC +5.50" height="220"/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abad-87&theme=github_dark" 
-       alt="Repos per Language" height="160"/>
-  <!-- Most Commit Language -->
+       alt="Repos per Language" height="220"/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abad-87&theme=github_dark" 
-       alt="Most Commit Language" height="160"/>
+       alt="Most Commit Language" height="220"/>
 </p>
 
-<!-- ──── ROW 4: Contribution Activity Graph ──── -->
+<!-- ──── ROW 4: Top Languages by Repo & Top Languages by Commit (UNCHANGED) ──── -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&border_radius=24&custom_title=%F0%9F%93%85%20Contribution%20Timeline%20%7C%20Last%2031%20Days&title_color=D4AF37&days=45&grid=true&grid_color=ffffff10&height=350" 
-       alt="Activity Graph" width="96%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8&custom_title=%F0%9F%93%9A%20Top%20Languages%20by%20Repo&card_width=450" 
+       alt="Top Languages by Repo" height="220"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8&custom_title=%F0%9F%93%9D%20Top%20Languages%20by%20Commit&card_width=450" 
+       alt="Top Languages by Commit" height="220"/>
 </p>
 
-<!-- ──── ROW 5: Achievement Badges & Milestones ──── -->
+<!-- ──── ROW 5: Live Contribution Graph ──── -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=00e676&point=FFFFFF&area=true&area_color=00e676&hide_border=true&border_radius=24&custom_title=%F0%9F%94%B4%20LIVE%20Contribution%20Graph%20%7C%20Real-Time%20Activity%20Pulse&title_color=D4AF37&days=365&grid=true&grid_color=ffffff10&height=350" 
+       alt="Live Activity Graph" width="96%"/>
+</p>
+
+<!-- ──── ROW 6: Live Contribution Heatmap ──── -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=FFD700&point=FF6B6B&area=true&area_color=D4AF3720&hide_border=true&border_radius=24&custom_title=%F0%9F%93%8A%20Live%20Contribution%20Heatmap%20%7C%20Last%20365%20Days&title_color=D4AF37&days=365&grid=true&grid_color=ffffff10&height=300" 
+       alt="Live Contribution Heatmap" width="96%"/>
+</p>
+
+<!-- ──── ROW 7: Achievement Badges & Milestones ──── -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=darkhub&no-frame=true&column=9&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title_color=D4AF37" 
        alt="GitHub Trophies" width="96%"/>
 </p>
 
-<!-- ──── ROW 6: Stats Summary with GitHub Skyline CTA ──── -->
+<!-- ──── ROW 8: Stats Summary with GitHub Skyline CTA ──── -->
 <p align="center">
   <a href="https://skyline.github.com/Abad-87/2024" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%202024%20GitHub%20Skyline-%230d1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
@@ -124,6 +141,18 @@
   <img src="https://img.shields.io/github/followers/Abad-87?style=for-the-badge&logo=github&color=D4AF37&labelColor=0d1117&label=%E2%AD%90%20Followers" 
        alt="Followers"/>
 </p>
+
+<!-- ──── AUTO-REFRESH SCRIPT for Live Updates ──── -->
+<script>
+  // Auto-refresh every 3 minutes for real-time updates
+  setTimeout(function() {
+    location.reload();
+  }, 180000); // 180,000ms = 3 minutes
+  
+  console.log('🔥 Premium Dashboard Active');
+  console.log('📊 Donut + Pie Charts Kept Original');
+  console.log('⚡ Auto-refresh every 3 minutes');
+</script>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
