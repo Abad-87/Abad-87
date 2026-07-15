@@ -44,26 +44,26 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+<h2 align="center">
+  <samp>✦</samp> GitHub Statistics <samp>✦</samp>
+</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&show_icons=true&theme=transparent&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&ring_color=D4AF37&count_private=true&custom_title=✦%20Stats%20Overview" alt="Stats" height="190"/>
-  <img src="https://streak-stats.demolab.com/?user=Abad-87&hide_border=true&border_radius=20&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=D4AF37" alt="Streak" height="190"/>
-</p>
+<div align="center">
+  
+  <!-- Stats Cards Row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&show_icons=true&count_private=true&hide=prs,issues&hide_border=true&border_radius=16&bg_color=1A1B27&title_color=C9A96E&icon_color=C9A96E&text_color=A0A0A0&custom_title=Overview" height="180" style="margin:4px"/>
+  <img src="https://streak-stats.demolab.com?user=Abad-87&hide_border=true&border_radius=16&background=1A1B27&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=A0A0A0&currStreakNum=A0A0A0&sideNums=A0A0A0&dates=5C5C5C&stroke=2D2E3A" height="180" style="margin:4px"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&theme=transparent&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8&card_width=450" alt="Top Languages" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abad-87&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=5" alt="Wakatime" height="190"/>
-</p>
+  <!-- Languages & Activity -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&hide_border=true&border_radius=16&bg_color=1A1B27&title_color=C9A96E&text_color=A0A0A0&langs_count=8&card_width=470" height="180" style="margin:4px"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=D4AF37&point=D4AF37&area=true&area_color=D4AF37&hide_border=true&border_radius=20&custom_title=Contribution%20Timeline&title_color=D4AF37" alt="Activity Graph" width="92%"/>
-</p>
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=1A1B27&color=C9A96E&line=C9A96E&point=A0A0A0&area=true&area_color=C9A96E&hide_border=true&border_radius=16&custom_title=Activity" alt="Graph" width="90%" style="margin-top:12px; border-radius:16px"/>
 
-<!-- Trophy Showcase -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&title_color=D4AF37" alt="Trophies" width="92%"/>
-</p>
+  <!-- Achievements -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=onestar&no-frame=true&column=8&margin-w=6&margin-h=6&rank=-C,-?" width="90%" style="margin-top:12px"/>
+  
+</div>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
