@@ -46,9 +46,11 @@
 
 <!-- =================== GITHUB ANALYTICS =================== -->
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=A020F0&center=true&vCenter=true&width=650&lines=GitHub+Analytics;Contribution+Activity;Always+Learning+🚀" />
-</h2>
+<h1 align="center">GitHub Analytics</h1>
+
+<p align="center">
+  <b>Contribution Activity • Always Learning 🚀</b>
+</p>
 
 <br>
 
