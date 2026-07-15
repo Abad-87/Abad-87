@@ -44,115 +44,61 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-<!-- 
-  ╔══════════════════════════════════════════════════════════╗
-  ║  « GILDED NOCTURNE » — Premium GitHub Analytics Suite   ║
-  ║  Designed for maximum visibility & data storytelling    ║
-  ╚══════════════════════════════════════════════════════════╝
--->
+<!-- =================== GITHUB ANALYTICS =================== -->
 
-<!-- ──── SECTION HEADER ──── -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=%E2%9C%A8+GitHub+Analytics+Dashboard;%F0%9F%93%8A+Real-Time+Insights+%26+Metrics;%F0%9F%8F%86+Performance+%26+Contribution+History" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=GitHub+Analytics;Building+Projects;Always+Learning+%F0%9F%9A%80" />
 </h2>
 
-<!-- ──── STATS ROW 1: Core Metrics Side by Side ──── -->
+<br>
+
+<!-- Stats + Streak -->
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/Abad-87">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&ring_color=D4AF37&rank_icon=percentile" 
-         alt="GitHub Stats" height="220"/>
-  </a>
-  
-  <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Abad-87&hide_border=true&border_radius=20&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8b949e&stroke=D4AF37&currStreak=Current%20Streak&longestStreak=Longest%20Streak&totalContributions=Total%20Contributions" 
-         alt="Contribution Streak" height="220"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abad-87&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+
+  <img height="180" src="https://streak-stats.demolab.com?user=Abad-87&theme=github-dark&hide_border=true"/>
 </p>
 
-<!-- ──── ROW 2: Language Donut & Language Pie (UNCHANGED) ──── -->
+<br>
+
+<!-- Languages -->
 <p align="center">
-  <!-- Language Donut -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=donut&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=10&custom_title=%F0%9F%8D%A9%20Language%20Donut&card_width=400" 
-       alt="Language Donut" height="220"/>
-  
-  <!-- Language Pie -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=pie&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%A5%A7%20Language%20Pie&card_width=400" 
-       alt="Language Pie" height="220"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </p>
 
-<!-- ──── ROW 3: Commits (UTC +5.50) - per day hour ──── -->
+<br>
+
+<!-- Summary Cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abad-87&theme=github_dark&utcOffset=5.5" 
-       alt="Commits UTC +5.50" height="220"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abad-87&theme=github_dark" 
-       alt="Repos per Language" height="220"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abad-87&theme=github_dark" 
-       alt="Most Commit Language" height="220"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abad-87&theme=github_dark"/>
+
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abad-87&theme=github_dark"/>
+
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abad-87&theme=github_dark&utcOffset=5.5"/>
 </p>
 
-<!-- ──── ROW 4: Top Languages by Repo & Top Languages by Commit (UNCHANGED) ──── -->
+<br>
+
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8&custom_title=%F0%9F%93%9A%20Top%20Languages%20by%20Repo&card_width=450" 
-       alt="Top Languages by Repo" height="220"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8&custom_title=%F0%9F%93%9D%20Top%20Languages%20by%20Commit&card_width=450" 
-       alt="Top Languages by Commit" height="220"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
-<!-- ──── ROW 5: Live Contribution Graph ──── -->
+<br>
+
+<!-- Trophies -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=00e676&point=FFFFFF&area=true&area_color=00e676&hide_border=true&border_radius=24&custom_title=%F0%9F%94%B4%20LIVE%20Contribution%20Graph%20%7C%20Real-Time%20Activity%20Pulse&title_color=D4AF37&days=365&grid=true&grid_color=ffffff10&height=350" 
-       alt="Live Activity Graph" width="96%"/>
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=algolia&no-frame=true&column=6&margin-w=15"/>
 </p>
 
-<!-- ──── ROW 6: Live Contribution Heatmap ──── -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=FFD700&point=FF6B6B&area=true&area_color=D4AF3720&hide_border=true&border_radius=24&custom_title=%F0%9F%93%8A%20Live%20Contribution%20Heatmap%20%7C%20Last%20365%20Days&title_color=D4AF37&days=365&grid=true&grid_color=ffffff10&height=300" 
-       alt="Live Contribution Heatmap" width="96%"/>
-</p>
+<br>
 
-<!-- ──── ROW 7: Achievement Badges & Milestones ──── -->
+<!-- Badges -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=darkhub&no-frame=true&column=9&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title_color=D4AF37" 
-       alt="GitHub Trophies" width="96%"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Abad-87&style=for-the-badge&color=blue"/>
 
-<!-- ──── ROW 8: Stats Summary with GitHub Skyline CTA ──── -->
-<p align="center">
-  <a href="https://skyline.github.com/Abad-87/2024" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%202024%20GitHub%20Skyline-%230d1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
-         alt="GitHub Skyline"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Abad-87?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20Repositories-%230d1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
-         alt="Repositories"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/Abad-87?style=for-the-badge&logo=github"/>
 </p>
-
-<!-- ──── FOOTER: Live Visitor Counter ──── -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abad-87&style=for-the-badge&color=D4AF37&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Insights%20Loaded" 
-       alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Abad-87?style=for-the-badge&logo=github&color=D4AF37&labelColor=0d1117&label=%E2%AD%90%20Followers" 
-       alt="Followers"/>
-</p>
-
-<!-- ──── AUTO-REFRESH SCRIPT for Live Updates ──── -->
-<script>
-  // Auto-refresh every 3 minutes for real-time updates
-  setTimeout(function() {
-    location.reload();
-  }, 180000); // 180,000ms = 3 minutes
-  
-  console.log('🔥 Premium Dashboard Active');
-  console.log('📊 Donut + Pie Charts Kept Original');
-  console.log('⚡ Auto-refresh every 3 minutes');
-</script>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
