@@ -56,15 +56,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=%E2%9C%A8+GitHub+Analytics+Dashboard;%F0%9F%93%8A+Real-Time+Insights+%26+Metrics;%F0%9F%8F%86+Performance+%26+Contribution+History" alt="Typing SVG" />
 </h2>
 
-<!-- ──── STATS ROW 1: Core Metrics ──── -->
+<!-- ──── STATS ROW 1: Core Metrics Side by Side ──── -->
 <p align="center">
+  <!-- GitHub Stats Card -->
   <a href="https://github.com/Abad-87">
-    <!-- Total Stats with custom labels -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&show_icons=true&count_private=true&include_all_commits=true&custom_title=%F0%9F%92%BB%20Developer%20Profile%20%7C%20Lifetime%20Stats&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&ring_color=D4AF37&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
+    <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&ring_color=D4AF37&rank_icon=percentile" 
          alt="GitHub Stats" height="220"/>
   </a>
+  
+  <!-- Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <!-- Streak with fire animation effect -->
     <img src="https://streak-stats.demolab.com?user=Abad-87&hide_border=true&border_radius=20&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8b949e&stroke=D4AF37&currStreak=Current%20Streak&longestStreak=Longest%20Streak&totalContributions=Total%20Contributions" 
          alt="Contribution Streak" height="220"/>
   </a>
@@ -91,19 +92,24 @@
        alt="Most Commit Language" height="160"/>
 </p>
 
-<!-- ──── ROW 4: Contribution Activity Graph (Single instance) ──── -->
+<!-- ──── ROW 4: LIVE Contribution Graph ──── -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&border_radius=24&custom_title=%F0%9F%93%85%20Contribution%20Timeline%20%7C%20Last%2031%20Days&title_color=D4AF37&days=45&grid=true&grid_color=ffffff10&height=350" 
-       alt="Activity Graph" width="96%"/>
+  <!-- Live Activity Graph - Updates every time you push code -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=00e676&point=FFFFFF&area=true&area_color=00e676&hide_border=true&border_radius=24&custom_title=%F0%9F%94%B4%20LIVE%20Contribution%20Graph%20%7C%20Real-Time%20Activity%20Pulse&title_color=D4AF37&days=365&grid=true&grid_color=ffffff10&height=350" 
+       alt="Live Activity Graph" width="96%"/>
 </p>
 
-<!-- ──── ROW 5: Achievement Badges & Milestones ──── -->
+<!-- ──── ROW 5: Live Contribution Calendar (Heatmap) ──── -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=D4AF37&point=FFD700&area=true&area_color=D4AF3720&hide_border=true&border_radius=24&custom_title=%F0%9F%93%8A%20Live%20Contribution%20Heatmap%20%7C%20Last%20365%20Days&title_color=D4AF37&days=365&grid=true&grid_color=ffffff10&height=300&layout=compact" 
+       alt="Live Contribution Heatmap" width="96%"/>
+</p>
+
+<!-- ──── ROW 6: Achievement Badges & Milestones ──── -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=darkhub&no-frame=true&column=9&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title_color=D4AF37" 
        alt="GitHub Trophies" width="96%"/>
 </p>
-
-<!-- ──── ROW 6: Activity Feed removed - No duplicate stats ──── -->
 
 <!-- ──── ROW 7: Stats Summary with GitHub Skyline CTA ──── -->
 <p align="center">
@@ -125,6 +131,18 @@
   <img src="https://img.shields.io/github/followers/Abad-87?style=for-the-badge&logo=github&color=D4AF37&labelColor=0d1117&label=%E2%AD%90%20Followers" 
        alt="Followers"/>
 </p>
+
+<!-- ──── AUTO-REFRESH SCRIPT for Live Updates ──── -->
+<script>
+  // This script auto-refreshes the contribution graphs every 5 minutes
+  // to show the latest activity in real-time
+  setTimeout(function() {
+    location.reload();
+  }, 300000); // 300,000ms = 5 minutes
+  
+  console.log('🔥 Live Contribution Graph Active');
+  console.log('📊 Auto-refresh every 5 minutes for real-time updates');
+</script>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
