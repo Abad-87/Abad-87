@@ -92,26 +92,19 @@
        alt="Most Commit Language" height="160"/>
 </p>
 
-<!-- ──── ROW 4: LIVE Contribution Graph ──── -->
+<!-- ──── ROW 4: Contribution Activity Graph ──── -->
 <p align="center">
-  <!-- Live Activity Graph - Updates every time you push code -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=00e676&point=FFFFFF&area=true&area_color=00e676&hide_border=true&border_radius=24&custom_title=%F0%9F%94%B4%20LIVE%20Contribution%20Graph%20%7C%20Real-Time%20Activity%20Pulse&title_color=D4AF37&days=365&grid=true&grid_color=ffffff10&height=350" 
-       alt="Live Activity Graph" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&border_radius=24&custom_title=%F0%9F%93%85%20Contribution%20Timeline%20%7C%20Last%2031%20Days&title_color=D4AF37&days=45&grid=true&grid_color=ffffff10&height=350" 
+       alt="Activity Graph" width="96%"/>
 </p>
 
-<!-- ──── ROW 5: Live Contribution Calendar (Heatmap) ──── -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=D4AF37&point=FFD700&area=true&area_color=D4AF3720&hide_border=true&border_radius=24&custom_title=%F0%9F%93%8A%20Live%20Contribution%20Heatmap%20%7C%20Last%20365%20Days&title_color=D4AF37&days=365&grid=true&grid_color=ffffff10&height=300&layout=compact" 
-       alt="Live Contribution Heatmap" width="96%"/>
-</p>
-
-<!-- ──── ROW 6: Achievement Badges & Milestones ──── -->
+<!-- ──── ROW 5: Achievement Badges & Milestones ──── -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=darkhub&no-frame=true&column=9&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title_color=D4AF37" 
        alt="GitHub Trophies" width="96%"/>
 </p>
 
-<!-- ──── ROW 7: Stats Summary with GitHub Skyline CTA ──── -->
+<!-- ──── ROW 6: Stats Summary with GitHub Skyline CTA ──── -->
 <p align="center">
   <a href="https://skyline.github.com/Abad-87/2024" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%202024%20GitHub%20Skyline-%230d1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
@@ -131,18 +124,6 @@
   <img src="https://img.shields.io/github/followers/Abad-87?style=for-the-badge&logo=github&color=D4AF37&labelColor=0d1117&label=%E2%AD%90%20Followers" 
        alt="Followers"/>
 </p>
-
-<!-- ──── AUTO-REFRESH SCRIPT for Live Updates ──── -->
-<script>
-  // This script auto-refreshes the contribution graphs every 5 minutes
-  // to show the latest activity in real-time
-  setTimeout(function() {
-    location.reload();
-  }, 300000); // 300,000ms = 5 minutes
-  
-  console.log('🔥 Live Contribution Graph Active');
-  console.log('📊 Auto-refresh every 5 minutes for real-time updates');
-</script>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
