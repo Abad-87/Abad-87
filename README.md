@@ -71,43 +71,15 @@
   </a>
 </p>
 
-<!-- ──── ROW 2: Horizontal Bar Charts (Premium Metallic Colors) ──── -->
+<!-- ──── ROW 2: Language Analytics Deep Dive ──── -->
 <p align="center">
-  <!-- Top Languages by Repo - Horizontal Bar -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8&custom_title=%F0%9F%92%BB%20Top%20Languages%20by%20Repo%20%7C%20Metallic%20Collection&card_width=450&hide=html,css&theme=dark" 
-       alt="Top Languages by Repo" height="220"/>
-  
-  <!-- Top Languages by Commit - Horizontal Bar -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8&custom_title=%F0%9F%93%9D%20Top%20Languages%20by%20Commit%20%7C%20Metallic%20Edition&card_width=450&theme=dark" 
-       alt="Top Languages by Commit" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=donut&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=10&custom_title=%F0%9F%8C%90%20Language%20Distribution%20%7C%20Donut%20View&card_width=400" 
+       alt="Language Donut" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=pie&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%93%9D%20Top%20Languages%20%7C%20Pie%20View&card_width=400" 
+       alt="Language Pie" height="220"/>
 </p>
 
-<!-- ──── ROW 3: Interactive Area Chart for Commits ──── -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=FFD700&point=FFFFFF&area=true&area_color=D4AF3730&hide_border=true&border_radius=24&custom_title=%F0%9F%93%88%20Interactive%20Commit%20Activity%20%7C%20Area%20Chart%20View&title_color=D4AF37&days=90&grid=true&grid_color=ffffff10&height=350&layout=compact" 
-       alt="Interactive Commit Chart" width="96%"/>
-</p>
-
-<!-- ──── ROW 4: Premium Metallic Stats Cards ──── -->
-<p align="center">
-  <!-- Total Commits -->
-  <img src="https://img.shields.io/badge/Total%20Commits-2.4k+-D4AF37?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
-       alt="Total Commits"/>
-  &nbsp;
-  <!-- Pull Requests -->
-  <img src="https://img.shields.io/badge/Pull%20Requests-156-D4AF37?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
-       alt="Pull Requests"/>
-  &nbsp;
-  <!-- Issues -->
-  <img src="https://img.shields.io/badge/Issues%20Closed-89-D4AF37?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
-       alt="Issues Closed"/>
-  &nbsp;
-  <!-- Stars -->
-  <img src="https://img.shields.io/badge/Stars%20Earned-342-D4AF37?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
-       alt="Stars Earned"/>
-</p>
-
-<!-- ──── ROW 5: Time-Based Activity Analysis ──── -->
+<!-- ──── ROW 3: Time-Based Activity Analysis ──── -->
 <p align="center">
   <!-- Productive Time Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abad-87&theme=github_dark&utcOffset=5.5" 
@@ -120,19 +92,19 @@
        alt="Most Commit Language" height="160"/>
 </p>
 
-<!-- ──── ROW 6: Live Contribution Heatmap ──── -->
+<!-- ──── ROW 4: Contribution Activity Graph ──── -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=FFD700&point=FF6B6B&area=true&area_color=D4AF3720&hide_border=true&border_radius=24&custom_title=%F0%9F%94%A5%20Live%20Contribution%20Heatmap%20%7C%20Last%20365%20Days&title_color=D4AF37&days=365&grid=true&grid_color=ffffff10&height=300" 
-       alt="Live Contribution Heatmap" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&border_radius=24&custom_title=%F0%9F%93%85%20Contribution%20Timeline%20%7C%20Last%2031%20Days&title_color=D4AF37&days=45&grid=true&grid_color=ffffff10&height=350" 
+       alt="Activity Graph" width="96%"/>
 </p>
 
-<!-- ──── ROW 7: Achievement Badges & Milestones ──── -->
+<!-- ──── ROW 5: Achievement Badges & Milestones ──── -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=darkhub&no-frame=true&column=9&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title_color=D4AF37" 
        alt="GitHub Trophies" width="96%"/>
 </p>
 
-<!-- ──── ROW 8: Stats Summary with GitHub Skyline CTA ──── -->
+<!-- ──── ROW 6: Stats Summary with GitHub Skyline CTA ──── -->
 <p align="center">
   <a href="https://skyline.github.com/Abad-87/2024" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%202024%20GitHub%20Skyline-%230d1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
@@ -152,18 +124,6 @@
   <img src="https://img.shields.io/github/followers/Abad-87?style=for-the-badge&logo=github&color=D4AF37&labelColor=0d1117&label=%E2%AD%90%20Followers" 
        alt="Followers"/>
 </p>
-
-<!-- ──── AUTO-REFRESH SCRIPT for Live Updates ──── -->
-<script>
-  // Auto-refresh every 3 minutes for real-time updates
-  setTimeout(function() {
-    location.reload();
-  }, 180000); // 180,000ms = 3 minutes
-  
-  console.log('🔥 Premium Metallic Dashboard Active');
-  console.log('📊 Horizontal Bar Charts + Interactive Area Charts');
-  console.log('⚡ Auto-refresh every 3 minutes');
-</script>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
