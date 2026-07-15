@@ -53,16 +53,13 @@
 
 <!-- ──── SECTION HEADER ──── -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=%E2%9C%A8+GitHub+Analytics+Dashboard;%F0%9F%93%8A+Real-Time+Insights+%26+Metrics;%F0%9F%8F%86+Performance+%26+Contribution+History" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=%E2%9C%A8+GitHub+Analytics+Dashboard;%F0%9F%93%8A+Real-Time+Insights+%26+Metrics" alt="Typing SVG" />
 </h2>
 
 <!-- ──── STATS ROW 1: Core Metrics Side by Side ──── -->
 <p align="center">
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/Abad-87">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=20&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&ring_color=D4AF37&rank_icon=percentile" 
-         alt="GitHub Stats" height="220"/>
-  </a>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username= Abad-87&theme=radical)
   
   <!-- Streak Stats -->
   <a href="https://git.io/streak-stats">
@@ -98,33 +95,6 @@
        alt="Activity Graph" width="96%"/>
 </p>
 
-<!-- ──── ROW 5: Achievement Badges & Milestones ──── -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=darkhub&no-frame=true&column=9&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title_color=D4AF37" 
-       alt="GitHub Trophies" width="96%"/>
-</p>
-
-<!-- ──── ROW 6: Stats Summary with GitHub Skyline CTA ──── -->
-<p align="center">
-  <a href="https://skyline.github.com/Abad-87/2024" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%202024%20GitHub%20Skyline-%230d1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
-         alt="GitHub Skyline"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Abad-87?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20Repositories-%230d1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=D4AF37&border_radius=12" 
-         alt="Repositories"/>
-  </a>
-</p>
-
-<!-- ──── FOOTER: Live Visitor Counter ──── -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abad-87&style=for-the-badge&color=D4AF37&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Insights%20Loaded" 
-       alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Abad-87?style=for-the-badge&logo=github&color=D4AF37&labelColor=0d1117&label=%E2%AD%90%20Followers" 
-       alt="Followers"/>
-</p>
-
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=A%20hopeless%20man%20is%20a%20very%20desperate%20and%20dangerous%20man%2C%20almost%20a%20dead%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
@@ -133,23 +103,23 @@
 <div align="center">
   
 <a href="abadmustafa280@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="abadmustafa280@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="abadmustafa280@gmail.com" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://x.com/" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
+<img src="./twitter.png" width=50 height=50 alt="" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://www.instagram.com/sparky_k4.exe" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="sparky_k4.exe" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=50 height=50 alt="sparky_k4.exe" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://www.githubcom/Abad-87" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Abad-87" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="Abad-87" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/abadmustafa/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 10px;" />
 </a>
 
 
