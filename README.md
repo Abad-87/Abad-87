@@ -71,10 +71,7 @@
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&bg_color=0d1117&color=39d353&line=39d353&point=2ea043&area=true&area_color=39d353&hide_border=true&radius=12"
-  />
+  <img src="https://raw.githubusercontent.com/Abad-87/github-3d-contribution/main/output/contribution-3d.svg" width="100%">
 </p>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
