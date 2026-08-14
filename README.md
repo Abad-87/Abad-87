@@ -64,7 +64,7 @@
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
+  <img src="https://raw.githubusercontent.com/Abad-87/Abad-87/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
 </p>
 
 <!-- Contribution Graph -->
