@@ -63,11 +63,9 @@
 </p>
 
 <br>
-<div align="center">
-  
-  ![snake gif](https://github.com/ArshilTech/ArshilTech/blob/output/github-snake.svg)
-  
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
+</p>
 
 <!-- Contribution Graph -->
 <p align="center">
